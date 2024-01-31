@@ -1,0 +1,32 @@
+.post{
+    margin:10% 10% 10% 60%;
+    position:relative;  
+}
+.img{
+    width:550px;
+    border-radius:10px;
+    border: 5px solid rgb(62, 62, 63);
+  background-repeat: no-repeat;
+}
+.post_footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.post_footerIcons{
+    display:flex;
+   flex-direction:row;
+   align-items:center;
+   justify-content:center;
+}
+.post_iconsMain{
+display: flex;
+justify-content:space-between;
+}
+.fa{
+    padding:10px;
+}
+.fa:hover{
+    cursor: pointer;
+}
+    
